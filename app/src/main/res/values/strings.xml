@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hinge Homework</string>
+
+    <string name="name_label">Name:</string>
+    <string name="gender_label">Gender:</string>
+    <string name="about_label">About:</string>
+    <string name="school_label">School:</string>
+    <string name="hobbies_label">Hobbies:</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="next_profile_button">Next profile button</string>
+</resources>
