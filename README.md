@@ -12,4 +12,5 @@ An app to display a single profile with the fields in the order defined by the c
     - Json library
 
 ## Assumptions made
-- I am assuming that all fields in User is not required. Because of this I made the field in the User mode nullable.
+- All fields in User is not required. Because of this I made the field in the User mode nullable.
+- If either the fetch config or fetch users call fails then I will display an error
